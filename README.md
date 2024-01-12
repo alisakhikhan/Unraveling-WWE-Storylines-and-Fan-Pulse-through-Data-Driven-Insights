@@ -1,2 +1,2 @@
 # Unraveling-WWE-Storylines-and-Fan-Pulse-through-Data-Driven-Insights
-Explore the dynamic world of WWE narratives through sentiment analysis, unveiling fan insights, wrestler popularity, and strategic recommendations, all powered by data science
+Explore the realm of WWE storytelling with data-driven insights, unraveling fan sentiments and wrestler dynamics. From decoding the popularity of WWE icons to offering strategic recommendations for the future, this analysis explores the intersection of sports entertainment and data science. Experience the pulse of the wrestling community as we dissect narratives and provide actionable insights for crafting compelling storylines.
